@@ -6,6 +6,7 @@ Our data is from https://ww.ncdc.noaa.gov/ and consists of 5 different datasets 
 
 ### Capstone Navigation
 Notebooks - https://github.com/jimmysmart/python_DS/tree/master/Capstone%202/notebook
+
 Final Reports - https://github.com/jimmysmart/python_DS/tree/master/Capstone%202/reports
 
 #### Primary Goal
